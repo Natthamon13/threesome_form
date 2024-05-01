@@ -4,19 +4,19 @@ body {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 200px;
   text-align: center;
   color: antiquewhite;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 100px;
   text-align: center;
   color: antiquewhite;
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 50px;
   text-align: center;
   color: antiquewhite;
 }
