@@ -1,0 +1,100 @@
+/* ELEMENTS STYLE */
+body {
+  background-color: #222;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  color: antiquewhite;
+  margin: 30px auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  width: 20%;
+  margin: 20px auto;
+  display: block;
+}
+
+.middle {
+  /* border: 5px solid; */
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+.btn {
+  background: antiquewhite;
+  font-size: 2rem;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+a:hover {
+  color: #bcaa96;
+  text-decoration: none;
+}
+
+.container {
+  border: 5px solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  height: 600px;
+  width: 1100px;
+  background-color: antiquewhite;
+}
+
+p {
+  text-align: center;
+}
+
+.certificate-1 {
+  font-size: 4rem;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.certificate-2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.certificate-3 {
+  margin-top: 50px;
+}
+
+.certificate-4 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  font-family: "Courgette", cursive;
+  font-style: normal;
+}
+
+hr {
+  width: 700px;
+  border-bottom: 1px solid #888;
+}
+
+.certificate-5 {
+  margin-top: 50px;
+}
+
+.certificate-7 {
+  font-family: "Sacramento", cursive;
+  margin-top: 50px;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+.certificate-8 {
+  margin-top: 0;
+  font-weight: bold;
+}
